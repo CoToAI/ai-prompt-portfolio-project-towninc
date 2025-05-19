@@ -13,7 +13,7 @@ This project is my first AI-based web experience, built using:
 - 🧱 v0.dev for frontend component building
 
 ## Idea
-I wanted to create a fast, AI-powered business idea generator to practice prompt engineering and build a user-friendly UI using no-code tools.
+I wanted to create a fast, AI-powered website to practice prompt engineering and build a user-friendly UI using no-code tools.
 
 ## Tools I Used
 - **Figma**: UX mockups and component layout
