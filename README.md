@@ -44,4 +44,4 @@ I wanted to create a fast, AI-powered business idea generator to practice prompt
 - Responsive UI via v0.dev
 
 ---
-🔗 Follow me on GitHub: [CTxCodes](https://github.com/CoToAI)
+🔗 Follow me on GitHub: [CoToAI](https://github.com/CoToAI)
